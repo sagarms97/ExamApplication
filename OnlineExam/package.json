@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@wiris/mathtype-ckeditor4": "^8.10.0"
+  }
+}
