@@ -190,7 +190,7 @@
 
 
                                     <tr>
-                                        <td>A)<asp:RadioButton GroupName="grp1" ID="rbnOptionA" OnCheckedChanged="rbnOptionA_CheckedChanged" AutoPostBack="true" value="A" runat="server" CssClass="radio radio-primary" Text='<%#Eval("option_a") %>' /></td>
+                                        <td>A)<asp:RadioButton GroupName="grp1" ID="rbnOptionA"  OnCheckedChanged="rbnOptionA_CheckedChanged" AutoPostBack="true" value="A" runat="server" CssClass="radio radio-primary" Text='<%#Eval("option_a") %>' /></td>
                                     </tr>
                                     <tr>
                                         <td>B)<asp:RadioButton GroupName="grp1" ID="rbnOptionB" OnCheckedChanged="rbnOptionB_CheckedChanged" value="B" runat="server" AutoPostBack="true" CssClass="radio radio-primary" Text='<%#Eval("option_b") %>' /></td>
